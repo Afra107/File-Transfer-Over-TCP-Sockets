@@ -30,7 +30,7 @@ This repository implements a system for transferring video files over TCP socket
 
 ## Design Diagram
 
-![Video File Transfer Over TCP Sockets](image.png)
+![image](https://github.com/user-attachments/assets/bf5852e1-753e-481e-a24f-629cab86c9c9)
 
 ---
 
